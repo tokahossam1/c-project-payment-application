@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1666903903 source:c:\users\toka\documents\c++\assignment amit\fwd project edited\card folder\card.c
+	"../card folder/card.h"
+	<string.h>
+
+1666903061 c:\users\toka\documents\c++\assignment amit\fwd project edited\card folder\card.h
+
+1666907595 source:c:\users\toka\documents\c++\assignment amit\fwd project edited\server folder\server.c
+	"server.h"
+	"../card folder/card.h"
+	"../terminal folder/terminal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666903903 c:\users\toka\documents\c++\assignment amit\fwd project edited\server folder\server.h
+	"../card folder/card.h"
+	"../terminal folder/terminal.h"
+
+1666903911 c:\users\toka\documents\c++\assignment amit\fwd project edited\terminal folder\terminal.h
+	"../card folder/card.h"
+
+1666903918 source:c:\users\toka\documents\c++\assignment amit\fwd project edited\terminal folder\terminal.c
+	"../card folder/card.h"
+	"../terminal folder/terminal.h"
+	<string.h>
+	<stdio.h>
+
+1666907437 source:c:\users\toka\documents\c++\assignment amit\fwd project edited\app folder\app.c
+	<stdio.h>
+	<stdlib.h>
+	"../card folder/card.h"
+	"../terminal folder/terminal.h"
+	"../server folder/server.h"
+	<string.h>
+
+1667241314 source:c:\users\toka\documents\c++\assignment amit\edited fwd project\fwd project edited\app folder\app.c
+	<stdio.h>
+	<stdlib.h>
+	"../card folder/card.h"
+	"../terminal folder/terminal.h"
+	"../server folder/server.h"
+	<string.h>
+
+1666903061 c:\users\toka\documents\c++\assignment amit\edited fwd project\fwd project edited\card folder\card.h
+
+1666903911 c:\users\toka\documents\c++\assignment amit\edited fwd project\fwd project edited\terminal folder\terminal.h
+	"../card folder/card.h"
+
+1667241314 c:\users\toka\documents\c++\assignment amit\edited fwd project\fwd project edited\server folder\server.h
+	"../card folder/card.h"
+	"../terminal folder/terminal.h"
+
+1666903903 source:c:\users\toka\documents\c++\assignment amit\edited fwd project\fwd project edited\card folder\card.c
+	"../card folder/card.h"
+	<string.h>
+
+1666903918 source:c:\users\toka\documents\c++\assignment amit\edited fwd project\fwd project edited\terminal folder\terminal.c
+	"../card folder/card.h"
+	"../terminal folder/terminal.h"
+	<string.h>
+	<stdio.h>
+
+1667242417 source:c:\users\toka\documents\c++\assignment amit\edited fwd project\fwd project edited\server folder\server.c
+	"server.h"
+	"../card folder/card.h"
+	"../terminal folder/terminal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
